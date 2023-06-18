@@ -1,0 +1,7 @@
+{"devices":
+[
+  {"name": "iphone", "model": "12"},
+  {"name": "android", "model": "galaxy13"},
+  {"name": "avaya", "model": "5000"}
+]
+}
